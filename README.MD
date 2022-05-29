@@ -2,7 +2,8 @@
 
 Berikut adalah hasil pengerjaan praktikum 2.
 
-[Gambar pengerjaan nomor 1]
+![image](https://user-images.githubusercontent.com/40772378/170873854-66a9a284-5cf3-4c77-8854-443becff3a2e.png)
+
 Untuk nomor 1, dimasukkan dahulu variabel-variabel yang didapat dari penjelasan, kemudian dilakukan penghitungan menggunakan t.test two.sided, menghasilkan output sebagai berikut:
 
 ```
@@ -18,7 +19,8 @@ mean of x
  16.22222 
 ```
 
-[Gambar pengerjaan nomor 2]
+![image](https://user-images.githubusercontent.com/40772378/170873867-7ac0bf55-e95e-4c76-9ab2-26f325c39906.png)
+
 Untuk nomor 2, dimasukkan dahulu variabel-variabel yang didapat dari penjelasan, kemudian dilakukan penghitungan menggunakan zsum.test greater, menghasilkan output sebagai berikut:
 
 ```
@@ -34,7 +36,8 @@ mean of x
     23500 
 ```
 
-[Gambar pengerjaan nomor 3]
+![image](https://user-images.githubusercontent.com/40772378/170873898-324b81c9-82d5-405c-93ee-e95de83d40d1.png)
+
 Untuk nomor 3, dimasukkan dahulu variabel-variabel yang didapat dari penjelasan, kemudian dilakukan pembuatan sampel random menggunakan fungsi rt, lalu 
 dilakukan penghitungan menggunakan tsum.test two.sided, menghasilkan output sebagai berikut:
 
@@ -51,5 +54,6 @@ mean of x mean of y
      3.64      2.79 
 ```
 
-[Gambar masukkan dataset nomor 4 dan 5]
+![image](https://user-images.githubusercontent.com/40772378/170873912-56b62905-e4fd-4809-af80-3878eb43db17.png)
+
 Telah dilakukan import dataset nomor 4 dan 5. Nomor 4 menggunakan read.table dengan delimiter tab, nomor 5 menggunakan read.csv.
